@@ -2,8 +2,6 @@
 ##Storyline Walkthrough
 This walkthrough is based on Lost Alpha version 1.4005 Developer's Cut (build 6890) played at Master level and includes limited optional tasks.
 
-**NOTE:** One bug with this build that I've reported is that many stashes are unaccessable when, and only when, I have the coordinates. No matter where I look, I can't get the **Search box** on-screen message.
-
 ##Tasks:
 *[Cordon](#Cordon)
 *[Find the artifact](#Find-the-artifact)
